@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kaliy\\source\\repos\\izanka\\simple-web-api\\TestWebAPI\\TestWebAPI.csproj": {}
+    "C:\\Users\\kaliy\\Source\\Repos\\random-services-api\\TestWebAPI\\TestWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kaliy\\source\\repos\\izanka\\simple-web-api\\TestWebAPI\\TestWebAPI.csproj": {
+    "C:\\Users\\kaliy\\Source\\Repos\\random-services-api\\TestWebAPI\\TestWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaliy\\source\\repos\\izanka\\simple-web-api\\TestWebAPI\\TestWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\kaliy\\Source\\Repos\\random-services-api\\TestWebAPI\\TestWebAPI.csproj",
         "projectName": "TestWebAPI",
-        "projectPath": "C:\\Users\\kaliy\\source\\repos\\izanka\\simple-web-api\\TestWebAPI\\TestWebAPI.csproj",
+        "projectPath": "C:\\Users\\kaliy\\Source\\Repos\\random-services-api\\TestWebAPI\\TestWebAPI.csproj",
         "packagesPath": "C:\\Users\\kaliy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaliy\\source\\repos\\izanka\\simple-web-api\\TestWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\kaliy\\Source\\Repos\\random-services-api\\TestWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
