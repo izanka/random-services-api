@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HFqIqW47WBXlMfAYNDZs0M43vPhMX22Ci6w6M4VMX9FkayP6+6yduYsYFoIeNCD05QhijLewKNE2rYK4OvG5pg==",
+  "dgSpecHash": "X393UiMouSnKWD6bgy65XWl22tJa1U7Td3etVflxaGGEQB5bKbDX5cqYSj3e3miZyOsTHJHIl2qBoHgSDans1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kaliy\\source\\repos\\random-services-api\\TestWebAPI\\RandomServicesAPI.csproj",
+  "projectFilePath": "C:\\Users\\kaliy\\source\\repos\\izanka\\random-services-api\\TestWebAPI\\RandomServicesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kaliy\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\kaliy\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

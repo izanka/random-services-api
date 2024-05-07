@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RandomServicesAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e0a96844b9d1e28e3bf09b92b4bfceb17966e3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+931fab8e9c281c6a875b8b9c5ab23e4af7be54ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("RandomServicesAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RandomServicesAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

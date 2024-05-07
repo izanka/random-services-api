@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaliy\\Source\\Repos\\random-services-api\\TestWebAPI\\RandomServicesAPI.csproj",
+      "projectUniqueName": "C:\\Users\\kaliy\\source\\repos\\izanka\\random-services-api\\TestWebAPI\\RandomServicesAPI.csproj",
       "projectName": "RandomServicesAPI",
-      "projectPath": "C:\\Users\\kaliy\\Source\\Repos\\random-services-api\\TestWebAPI\\RandomServicesAPI.csproj",
+      "projectPath": "C:\\Users\\kaliy\\source\\repos\\izanka\\random-services-api\\TestWebAPI\\RandomServicesAPI.csproj",
       "packagesPath": "C:\\Users\\kaliy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaliy\\Source\\Repos\\random-services-api\\TestWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\kaliy\\source\\repos\\izanka\\random-services-api\\TestWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
