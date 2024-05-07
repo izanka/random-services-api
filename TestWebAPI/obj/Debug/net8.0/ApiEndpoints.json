@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "TestWebAPI.Controllers.DataController",
+    "Method": "ProcessData",
+    "RelativePath": "api/Data/processData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "TestWebAPI.Models.DataModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
