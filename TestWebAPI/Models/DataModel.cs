@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace TestWebAPI.Models
+namespace RandomServicesAPI.Models
 {
     public class DataModel
     {

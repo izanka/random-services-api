@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using TestWebAPI.Models;
+using RandomServicesAPI.Models;
 
-namespace TestWebAPI.Controllers
+namespace RandomServicesAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

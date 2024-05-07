@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "TestWebAPI.Controllers.DataController",
+    "ContainingType": "RandomServicesAPI.Controllers.DataController",
     "Method": "ProcessData",
     "RelativePath": "api/Data/processData",
     "HttpMethod": "POST",
@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "data",
-        "Type": "TestWebAPI.Models.DataModel",
+        "Type": "RandomServicesAPI.Models.DataModel",
         "IsRequired": true
       }
     ],
