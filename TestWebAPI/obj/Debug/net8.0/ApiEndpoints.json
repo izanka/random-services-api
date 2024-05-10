@@ -18,8 +18,8 @@
   {
     "ContainingType": "RandomServicesAPI.Controllers.NasaController",
     "Method": "GetImageOfTheDay",
-    "RelativePath": "api/Nasa",
-    "HttpMethod": "",
+    "RelativePath": "api/Nasa/getImageOfTheDay",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
