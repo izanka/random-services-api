@@ -14,5 +14,15 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RandomServicesAPI.Controllers.NasaController",
+    "Method": "GetImageOfTheDay",
+    "RelativePath": "api/Nasa",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]
